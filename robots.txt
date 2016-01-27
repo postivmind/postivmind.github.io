@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: http://postivmind.org/sitemap.xml
+Disallow: /ghost/
